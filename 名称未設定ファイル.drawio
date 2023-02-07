@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T11:19:17.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="4dJgtZ-yH4thl708icjV" type="github"><diagram id="Ovl4eRPz-C4QD8CzRwR4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T11:28:33.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="2-_UuJT1XWehhr42jBu6" type="github">
+  <diagram id="p-QvGUwq5euVrDr3gRwT" name="ページ1">
+    <mxGraphModel dx="1434" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-2" value="ゾーン１" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-3" value="ゾーン２" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-4" value="ゾーン３" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-5" value="ノード３" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-6" value="ノード２" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-7" value="ノード１" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-9" value="ゾーン境界" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;dashed=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-11" value="ストレージ" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#330000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-12" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.017;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Tlt9DzgkbpAhe2CmiPbJ-11" target="Tlt9DzgkbpAhe2CmiPbJ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tlt9DzgkbpAhe2CmiPbJ-18" target="Tlt9DzgkbpAhe2CmiPbJ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tlt9DzgkbpAhe2CmiPbJ-6" target="Tlt9DzgkbpAhe2CmiPbJ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="230" as="sourcePoint" />
+            <mxPoint x="560" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-15" value="コネクション" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-16" value="外部システム" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#330000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tlt9DzgkbpAhe2CmiPbJ-6" target="Tlt9DzgkbpAhe2CmiPbJ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="350" as="sourcePoint" />
+            <mxPoint x="560" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-18" value="プロセス１" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#330000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="205" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tlt9DzgkbpAhe2CmiPbJ-19" value="プロセス３" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#330000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
