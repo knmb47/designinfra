@@ -18,7 +18,9 @@
 
 [基盤のアーキテクチャが必要な理由](why_operational_model)
 
-## [基本要素](basic_elements)
+## 基本要素
+
+* [基本要素の解説](basic_elements)
 
 
 ## 事例
