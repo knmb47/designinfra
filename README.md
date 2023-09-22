@@ -21,9 +21,9 @@
 ## 基本要素
 
 * [基本要素の解説](basic_elements.md)
-* ゾーン
-* ロケーション
 * [ノード](basic_elements_node.md)
+* [ゾーン](basic_elements_zone.md)
+* ロケーション
 * プロセス
 * コネクション
 * アクター
