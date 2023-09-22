@@ -16,14 +16,14 @@
 
 ## 前提
 
-[基盤のアーキテクチャが必要な理由](why_operational_model)
+[基盤のアーキテクチャが必要な理由](why_operational_model.md)
 
 ## 基本要素
 
-* [基本要素の解説](basic_elements)
+* [基本要素の解説](basic_elements.md)
 * ゾーン
 * ロケーション
-* [ノード](basic_elements_node)
+* [ノード](basic_elements_node.md)
 * プロセス
 * コネクション
 * アクター
