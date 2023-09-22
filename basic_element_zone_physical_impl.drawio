@@ -1,0 +1,100 @@
+<mxfile host="Electron" modified="2023-09-22T06:43:10.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="JIN3FoOBqaD4EJXqg-Hw" version="21.5.0" type="device">
+  <diagram name="ページ1" id="5XHeX4CLQV0HkSZVJlyk">
+    <mxGraphModel dx="1619" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-22" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-34" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="390" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-19" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-17" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-5" value="屋外" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-6" value="屋内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-7" value="屋内の更に守られた場所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-8" value="屋内で極度にロックされた場所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="635" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-13" value="屋外" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-14" value="屋内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-15" value="屋内の更に守られた場所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-16" value="屋内で極度にロックされた場所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-21" value="見るからに危険な境界" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;size=20;position=0.28;rotation=0;position2=0.17;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-23" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="400" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="400" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="461" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-26" value="屋外" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="940" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-27" value="屋内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="940" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-28" value="屋内の更に守られた場所" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="990" y="415" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-29" value="屋内で極度にロックされた場所" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="415" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-30" value="制約次第では仕方ないので、壁を厚くする。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;size=20;position=0.28;rotation=0;position2=0.5;base=37;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="295" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-35" value="分かりやすいゾーン配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-36" value="危ないゾーン配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="650" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K7w2AXVjmMNPe1ecd76b-37" value="制約により設計を考慮したゾーン配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="940" y="650" width="400" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
